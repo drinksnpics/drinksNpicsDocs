@@ -1,4 +1,4 @@
-# drinksNpicsDocs
+# DrinksNpicsDocs
 Documentation for the drinksNpics platform.
 
 ## Adobe XD
@@ -14,3 +14,6 @@ Apps are built using ionic.
 
 * Client App
 * Master App
+
+## Database design
+https://www.lucidchart.com/invitations/accept/2daa7c78-9f44-4f08-bfa5-da12bed5fece
