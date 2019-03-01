@@ -5,6 +5,7 @@ Documentation for the drinksNpics platform.
 Application mockups will be created in Adobe XD. A separate file is created for each platform, located under the [mockups folder](mockups/). 
  
 * [Client App](mockups/drinksNpics.xd)
+* [Admin App](mockups/AdminAppMockUp.xd)
 * Master App
 
 ## Codebase
