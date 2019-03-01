@@ -12,8 +12,11 @@ Application mockups will be created in Adobe XD. A separate file is created for 
 Apps are built using ionic.  
 *[missing] add links to repo*  
 
-* Client App
-* Master App
+* [Client App](https://github.com/drinksnpics/DrinksNPics) 
+* [Admin App](https://github.com/drinksnpics/DrinksNPicsAdmin)
 
 ## Database design
-https://www.lucidchart.com/invitations/accept/2daa7c78-9f44-4f08-bfa5-da12bed5fece
+
+The design for the models that will allow the platform to work
+
+* [Entity-Relationship Database Diagram](https://www.lucidchart.com/documents/edit/83da63e6-f10b-4f10-96ee-d0c1b3cb7ccb/0?shared=true&)
