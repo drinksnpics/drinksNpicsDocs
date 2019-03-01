@@ -6,7 +6,6 @@ Application mockups will be created in Adobe XD. A separate file is created for 
  
 * [Client App](mockups/drinksNpics.xd)
 * [Admin App](mockups/AdminAppMockUp.xd)
-* Master App
 
 ## Codebase
 
