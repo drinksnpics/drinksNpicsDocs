@@ -4,6 +4,8 @@
 
 ## Content
 * [Introduction](#1.0_Introduction)  
+* [Overall Description](#2.0_Overall_Description)
+* [Requirement Specifications](#3.0_Requirement_Specifications)
 
 
 ## 1.0 Introduction
@@ -41,9 +43,7 @@ The user interface should be user friendly and comply with the following require
 * The app will allow to register and manage a user profile.
 
 #### Admin Application
-This application could be more complex, as it handles more activities than the app.
-
-This application must have the following components.
+This application could be more complex, as it handles more activities than the app. The administrator app must have the following components.
 
 * A quick dashboard displaying the cinema's most important data as the home page.
 * Require a login to perform any change or make any consult to the servers.
@@ -51,7 +51,9 @@ This application must have the following components.
 
 ### 3.2 Functional Requirements
 
-#### Product Managing
+#### Admin Application
+##### Product Managing
+The system
 
 ### 3.3 Non-Functional Requirements
 
