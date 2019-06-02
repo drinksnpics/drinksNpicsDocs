@@ -22,3 +22,4 @@ The design for the models that will allow the platform to work
 
 ## System Requirement Specification
 * [Drinks and Pics Platform SRS](DNP_SRS.md)
+* [Traceability Matrix](TM.md)

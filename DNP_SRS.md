@@ -52,13 +52,23 @@ This application could be more complex, as it handles more activities than the a
 ### 3.2 Functional Requirements
 
 #### Admin Application
-##### Product Managing
-The system
+* Product Managing: The system should allow for managing (create, update, and delete) the diverse products the cinema offers such as FoodItems, Showtimes and Ticket Sales.
+* Cinema Catalogue: the cinema should have a way of discovering new movies and adding them to a catalogue, from which showtimes can be later created.
+* Cinema Room Administration: Allows managers to manage the establishment available rooms and their capacity as well as their status.
+* Collision Detection: The platform will notify admins when a created showtime collides with the timeframe of other showtimes in a room.
+* Employee Managing: The platform will allow a manager to add other employees to perform changes on the platform.
+
+#### Mobile Application
+* Purchase Abilities: Should allow users to buy tickets and food items to get at the cinema. The snacks purchasing must have a shopping cart functionality whilst ticket purchasing is a linear process.
+* Purchase History: will allow users to see their currently purchased tickets and also the previously bought ones.
 
 ### 3.3 Non-Functional Requirements
 
 #### Platform Availability
 The mobile application should be available for the two existing major mobile platforms (iOS & Android). The maintenance and development of both should be homologated. Ionic (JS Framework) is recommended for such purpose.
+
+#### Scalability
+The technologies used should guarantee the maintenance and compatibility with cutting edge technologies that could be used in the future to scale up the platform, thinking of wearable devices and other emerging trends.
 
 #### Database Storage
 Database managing and server maintenance are not core activities of Drinks N Pics Cinema, server rentals and outsourcing of such activities is encouraged.
