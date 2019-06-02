@@ -27,12 +27,27 @@ Throughout the document we will be referring to the following terminology.
 ### 1.2 Overview
 Chapters' description.
 
-## 2.0  
+## 2.0 Overall Description
 
 ## 3.0 Requirement Specifications
 
 ### 3.1 GUI Requirements
-The user interface should be 
+
+#### Mobile Application
+The user interface should be user friendly and comply with the following requirements.
+* The app must not have more than five main pages.
+* The pages must contain the Drinks N Pics bright red branding color.
+* The app must prioritize ticket and food sales.
+* The app will allow to register and manage a user profile.
+
+#### Admin Application
+This application could be more complex, as it handles more activities than the app.
+
+This application must have the following components.
+
+* A quick dashboard displaying the cinema's most important data as the home page.
+* Require a login to perform any change or make any consult to the servers.
+* Tables for displaying the information of Cinema Rooms, Food Items and Ticket Sales.
 
 ### 3.2 Functional Requirements
 
