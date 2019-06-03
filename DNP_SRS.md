@@ -31,7 +31,15 @@ Throughout the document we will be referring to the following terminology.
 Chapters' description.
 
 ## 2.0 Overall Description
+#### Mobile Application
+The application consists of 5 sections where the user can navigate freely:
+* **Billboard:**
+  * In this section the application shows a list with all the available films on billboard at that precise moment
+  ![Drinks N Pics Admin](img/iphone.png)
+* **Soon movie section:**
+  * In this section the application shows a list with all the available films on billboard at that precise moment
 
+#### Admin Application
 ## 3.0 Requirement Specifications
 
 ### 3.1 GUI Requirements
