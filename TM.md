@@ -17,8 +17,7 @@
 
 | ID | Description | Version | Current State | Latest Date Registered | Difficulty | Manager | Priority |
 |-----|----------------------------------------------------------|---------|---------------|------------------------|------------|---------|----------|
-| 1.1 | Ticket Purchasing  |  |  |  |  |  |  |
-| 1.2 | Food Purchasing |  |  |  |  |  |  |
-| 2.1 |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+| 1.1 | Ticket Purchasing   | v1.0 | Completed | May/27/2019 | H | Villalobos  | H |
+| 1.2 | Food Purchasing     | v1.0 | Completed | May/27/2019 | H | Villalobos  | H |
+| 1.3 | Profile Information | v1.0 | Completed | Jun/01/2019 | L | Villalobos  | H |
+| 1.4 | Soon Movies Section | v1.2 | Completed | Jun/01/2019 | M | Villalobos  | H |
