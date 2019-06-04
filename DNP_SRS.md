@@ -1,7 +1,6 @@
 # Drinks N Pics Software Requirements Specification
 
 ![Drinks N Pics Admin](img/DNPA.png)
-![Drinks N Pics Admin](img/iphone.png)
 
 ## Content
 * [Introduction](#1.0_Introduction)  
@@ -25,7 +24,6 @@ Throughout the document we will be referring to the following terminology.
 | Back-end | The set of services that allows the Front-end to work, includes servers, databases and software that is controlled mainly by Command Line Interfaces (CLIs) |
 | Users | The final user, client of Drinks N Pics Cinemas. |
 | System Administrator (admin)| Every employee that has been granted access to the Drinks N Pics Admin App by the cinema's manager. |
-|  |  |
 
 ### 1.2 Overview
 This platform will be developed by the ThreeAmigos Developer Group, as a collaboration with the DrinksNPics Cinema Group.
