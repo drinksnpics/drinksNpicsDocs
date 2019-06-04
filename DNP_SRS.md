@@ -28,18 +28,31 @@ Throughout the document we will be referring to the following terminology.
 |  |  |
 
 ### 1.2 Overview
-Chapters' description.
+This platform will be developed by the ThreeAmigos Developer Group, as a collaboration with the DrinksNPics Cinema Group.
+
+The platform will help to manage the assets and services the Cinema Group offers at its only location in Aguascalientes, México.
+
+The app will allow the Cinema Managers to manage and automate ordinary tasks such as Cinema Room management, ticket and snack sales monitoring and theater showtimes administration.
+
+The agreed terms of development and functionality to implement will be detailed throughout the following document and will be heavily referenced throughout the development process by the developer, legal and administrative teams of both parties.
+
+The agreed functionality to develop and its corresponding budget will cover only the requirements specified in this document. Any additional requirements will need to be negotiated by the interested parties and will likely result in a cost increase.
 
 ## 2.0 Overall Description
 #### Mobile Application
 The application consists of 5 sections where the user can navigate freely:
 * **Billboard:**
   * In this section the application shows a list with all the available films on billboard at that precise moment
-  ![Drinks N Pics Admin](img/iphone.png)
+  ![Drinks N Pics Mobile App](img/iphone.png)
 * **Soon movie section:**
   * In this section the application shows a list with all the available films on billboard at that precise moment
 
 #### Admin Application
+The admin application will have a clean interface consisting of only a navigation bar and the currently viewed content below.
+
+Two main sections will be shown in the navbar, a shortcut to an overview page and a dropdown menu that will allow to the user no navigate through the different item managing views.
+![Drinks N Pics Admin](img/Dashboard.png)
+
 ## 3.0 Requirement Specifications
 
 ### 3.1 GUI Requirements
