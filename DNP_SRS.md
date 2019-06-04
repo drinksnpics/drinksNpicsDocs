@@ -1,6 +1,7 @@
 # Drinks N Pics Software Requirements Specification
 
 ![Drinks N Pics Admin](img/DNPA.png)
+![Drinks N Pics Admin](img/iphone.png)
 
 ## Content
 * [Introduction](#1.0_Introduction)  
@@ -30,7 +31,15 @@ Throughout the document we will be referring to the following terminology.
 Chapters' description.
 
 ## 2.0 Overall Description
+#### Mobile Application
+The application consists of 5 sections where the user can navigate freely:
+* **Billboard:**
+  * In this section the application shows a list with all the available films on billboard at that precise moment
+  ![Drinks N Pics Admin](img/iphone.png)
+* **Soon movie section:**
+  * In this section the application shows a list with all the available films on billboard at that precise moment
 
+#### Admin Application
 ## 3.0 Requirement Specifications
 
 ### 3.1 GUI Requirements
@@ -59,8 +68,12 @@ This application could be more complex, as it handles more activities than the a
 * Employee Managing: The platform will allow a manager to add other employees to perform changes on the platform.
 
 #### Mobile Application
-* Purchase Abilities: Should allow users to buy tickets and food items to get at the cinema. The snacks purchasing must have a shopping cart functionality whilst ticket purchasing is a linear process.
-* Purchase History: will allow users to see their currently purchased tickets and also the previously bought ones.
+* Billboard: will allow users to see all available movies at the moment with its respective description, cast information and its score (in stars) at the moment.
+* Soon movies section: will show the films that will be available in the future, (this section should have the same information that the billboard section, the only additional information will be the _"release date"_).
+* Shoping cart: will allow users to see their currently added products (tickets and/or snacks).
+* Food section: the section will show all food items available at the moment, if the user clicks on any food item this should be added to the shopping cart.
+* Profile: in this section users will be able to visualize their basic information, like name, profile photo, etc.
+
 
 ### 3.3 Non-Functional Requirements
 

@@ -17,8 +17,18 @@
 
 | ID | Description | Version | Current State | Latest Date Registered | Difficulty | Manager | Priority |
 |-----|----------------------------------------------------------|---------|---------------|------------------------|------------|---------|----------|
+<<<<<<< HEAD
 | 1.1 | Ticket Purchasing  |  |  |  |  | Villalobos | H |
 | 1.2 | Food Purchasing |  |  |  |  | Villalobos | H |
 | 2.1 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
+=======
+| 1.1 | Billboard Section   | v1.1 | Completed | May/22/2019 | M | Villalobos  | H |
+| 1.2 | Soon Movies Section | v1.1 | Completed | May/25/2019 | M | Villalobos  | H |
+| 1.2 | Food Section W/O purchasing | v1.1 | Completed | May/25/2019 | M | Villalobos  | H |
+| 1.3 | Ticket Purchasing   | v1.2 | Completed | Jun/01/2019 | H | Villalobos  | H |
+| 1.4 | Food Purchasing     | v1.2 | Completed | Jun/01/2019 | H | Villalobos  | H |
+| 1.5 | Profile Information | v1.2 | Completed | Jun/01/2019 | L | Villalobos  | M |
+
+>>>>>>> a190d1eaa41be8244b2105b6588a492aaff4eb0c
