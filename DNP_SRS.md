@@ -64,6 +64,9 @@ This application could be more complex, as it handles more activities than the a
 
 ### 3.3 Non-Functional Requirements
 
+#### Concurrency
+The mobile application should be able to withstand between 100 and 300 concurrent users, while the Admin app will require less capacity, as it is thought to need no more than 10 concurrent users at most.
+
 #### Platform Availability
 The mobile application should be available for the two existing major mobile platforms (iOS & Android). The maintenance and development of both should be homologated. Ionic (JS Framework) is recommended for such purpose.
 

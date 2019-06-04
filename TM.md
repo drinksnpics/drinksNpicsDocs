@@ -11,14 +11,14 @@
 | 2.1 | Log In System | v1.0 | Completed | May/31/2019 | M | Longoria | H |
 | 2.2 | Authentication Mechanism | v1.3 | Completed | May/31/2019 | H | Longoria | H |
 | 3.1 | Dashboard | v1.1 | Assigned | Jun/02/2019 | L | Correa | M |
-|  |  |  |  |  |  |  |  |
+| 3.2 | Collision Detection | v1.0 | Assigned | Jun/01/2019 | M | Correa | L |
 
 ## DrinksNPics Mobile App
 
 | ID | Description | Version | Current State | Latest Date Registered | Difficulty | Manager | Priority |
 |-----|----------------------------------------------------------|---------|---------------|------------------------|------------|---------|----------|
-| 1.1 | Ticket Purchasing  |  |  |  |  |  |  |
-| 1.2 | Food Purchasing |  |  |  |  |  |  |
+| 1.1 | Ticket Purchasing  |  |  |  |  | Villalobos | H |
+| 1.2 | Food Purchasing |  |  |  |  | Villalobos | H |
 | 2.1 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
