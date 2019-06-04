@@ -11,7 +11,7 @@ Application mockups will be created in Adobe XD. A separate file is created for 
 
 Apps are built using ionic and .NET Core MVC 5, respectively.
 
-* [Client App](https://github.com/drinksnpics/DrinksNPics)
+* [Client App](https://github.com/drinksnpics/DrinksNPicsMobile)
 * [Admin App](https://github.com/drinksnpics/DrinksNPicsAdmin)
 
 ## Database design
