@@ -1,0 +1,1 @@
+# DrinksNPics Platform Contingency Plan
